@@ -1,0 +1,1128 @@
+{
+  "Thiruvallur": {
+    "ta": "Thiruvallur",
+    "constituencies": [
+      {
+        "en": "Gummidipoondi",
+        "ta": "Gummidipoondi"
+      },
+      {
+        "en": "Ponneri",
+        "ta": "Ponneri"
+      },
+      {
+        "en": "Tiruttani",
+        "ta": "Tiruttani"
+      },
+      {
+        "en": "Thiruvallur",
+        "ta": "Thiruvallur"
+      },
+      {
+        "en": "Poonamallee",
+        "ta": "Poonamallee"
+      },
+      {
+        "en": "Avadi",
+        "ta": "Avadi"
+      }
+    ]
+  },
+  "Chennai": {
+    "ta": "சென்னை",
+    "constituencies": [
+      {
+        "en": "Maduravoyal",
+        "ta": "Maduravoyal"
+      },
+      {
+        "en": "Ambattur",
+        "ta": "Ambattur"
+      },
+      {
+        "en": "Madavaram",
+        "ta": "Madavaram"
+      },
+      {
+        "en": "Thiruvottiyur",
+        "ta": "Thiruvottiyur"
+      },
+      {
+        "en": "Dr. Radhakrishnan Nagar",
+        "ta": "Dr. Radhakrishnan Nagar"
+      },
+      {
+        "en": "Perambur",
+        "ta": "Perambur"
+      },
+      {
+        "en": "Kolathur",
+        "ta": "Kolathur"
+      },
+      {
+        "en": "Villivakkam",
+        "ta": "Villivakkam"
+      },
+      {
+        "en": "Thiru-Vi-Ka-Nagar",
+        "ta": "Thiru-Vi-Ka-Nagar"
+      },
+      {
+        "en": "Egmore",
+        "ta": "Egmore"
+      },
+      {
+        "en": "Royapuram",
+        "ta": "Royapuram"
+      },
+      {
+        "en": "Harbour",
+        "ta": "Harbour"
+      },
+      {
+        "en": "Chepauk-Thiruvallikeni",
+        "ta": "Chepauk-Thiruvallikeni"
+      },
+      {
+        "en": "Thousand Lights",
+        "ta": "Thousand Lights"
+      },
+      {
+        "en": "Anna Nagar",
+        "ta": "Anna Nagar"
+      },
+      {
+        "en": "Virugambakkam",
+        "ta": "Virugambakkam"
+      },
+      {
+        "en": "Saidapet",
+        "ta": "Saidapet"
+      },
+      {
+        "en": "Thiyagarayanagar",
+        "ta": "Thiyagarayanagar"
+      },
+      {
+        "en": "Mylapore",
+        "ta": "Mylapore"
+      },
+      {
+        "en": "Velachery",
+        "ta": "Velachery"
+      },
+      {
+        "en": "Shozhinganallur",
+        "ta": "Shozhinganallur"
+      },
+      {
+        "en": "Alandur",
+        "ta": "Alandur"
+      }
+    ]
+  },
+  "Kancheepuram": {
+    "ta": "Kancheepuram",
+    "constituencies": [
+      {
+        "en": "Sriperumbudur",
+        "ta": "Sriperumbudur"
+      },
+      {
+        "en": "Uthiramerur",
+        "ta": "Uthiramerur"
+      },
+      {
+        "en": "Kancheepuram",
+        "ta": "Kancheepuram"
+      }
+    ]
+  },
+  "Chengalpattu": {
+    "ta": "Chengalpattu",
+    "constituencies": [
+      {
+        "en": "Pallavaram",
+        "ta": "Pallavaram"
+      },
+      {
+        "en": "Tambaram",
+        "ta": "Tambaram"
+      },
+      {
+        "en": "Chengalpattu",
+        "ta": "Chengalpattu"
+      },
+      {
+        "en": "Thiruporur",
+        "ta": "Thiruporur"
+      },
+      {
+        "en": "Cheyyur",
+        "ta": "Cheyyur"
+      },
+      {
+        "en": "Madurantakam",
+        "ta": "Madurantakam"
+      }
+    ]
+  },
+  "Ranipet": {
+    "ta": "Ranipet",
+    "constituencies": [
+      {
+        "en": "Arakkonam",
+        "ta": "Arakkonam"
+      },
+      {
+        "en": "Sholinghur",
+        "ta": "Sholinghur"
+      },
+      {
+        "en": "Ranipet",
+        "ta": "Ranipet"
+      },
+      {
+        "en": "Arcot",
+        "ta": "Arcot"
+      }
+    ]
+  },
+  "Vellore": {
+    "ta": "Vellore",
+    "constituencies": [
+      {
+        "en": "Katpadi",
+        "ta": "Katpadi"
+      },
+      {
+        "en": "Vellore",
+        "ta": "Vellore"
+      },
+      {
+        "en": "Anaikattu",
+        "ta": "Anaikattu"
+      },
+      {
+        "en": "Kilvaithinankuppam",
+        "ta": "Kilvaithinankuppam"
+      },
+      {
+        "en": "Gudiyattam",
+        "ta": "Gudiyattam"
+      }
+    ]
+  },
+  "Tirupattur": {
+    "ta": "Tirupattur",
+    "constituencies": [
+      {
+        "en": "Vaniyambadi",
+        "ta": "Vaniyambadi"
+      },
+      {
+        "en": "Ambur",
+        "ta": "Ambur"
+      },
+      {
+        "en": "Jolarpet",
+        "ta": "Jolarpet"
+      },
+      {
+        "en": "Tirupattur",
+        "ta": "Tirupattur"
+      }
+    ]
+  },
+  "Krishnagiri": {
+    "ta": "Krishnagiri",
+    "constituencies": [
+      {
+        "en": "Uthangarai",
+        "ta": "Uthangarai"
+      },
+      {
+        "en": "Bargur",
+        "ta": "Bargur"
+      },
+      {
+        "en": "Krishnagiri",
+        "ta": "Krishnagiri"
+      },
+      {
+        "en": "Veppanahalli",
+        "ta": "Veppanahalli"
+      },
+      {
+        "en": "Hosur",
+        "ta": "Hosur"
+      },
+      {
+        "en": "Thalli",
+        "ta": "Thalli"
+      }
+    ]
+  },
+  "Dharmapuri": {
+    "ta": "Dharmapuri",
+    "constituencies": [
+      {
+        "en": "Palacode",
+        "ta": "Palacode"
+      },
+      {
+        "en": "Pennagaram",
+        "ta": "Pennagaram"
+      },
+      {
+        "en": "Dharmapuri",
+        "ta": "Dharmapuri"
+      },
+      {
+        "en": "Pappireddippatti",
+        "ta": "Pappireddippatti"
+      },
+      {
+        "en": "Harur",
+        "ta": "Harur"
+      }
+    ]
+  },
+  "Tiruvannamalai": {
+    "ta": "Tiruvannamalai",
+    "constituencies": [
+      {
+        "en": "Chengam",
+        "ta": "Chengam"
+      },
+      {
+        "en": "Tiruvannamalai",
+        "ta": "Tiruvannamalai"
+      },
+      {
+        "en": "Kilpennathur",
+        "ta": "Kilpennathur"
+      },
+      {
+        "en": "Kalasapakkam",
+        "ta": "Kalasapakkam"
+      },
+      {
+        "en": "Polur",
+        "ta": "Polur"
+      },
+      {
+        "en": "Arani",
+        "ta": "Arani"
+      },
+      {
+        "en": "Cheyyar",
+        "ta": "Cheyyar"
+      },
+      {
+        "en": "Vandavasi",
+        "ta": "Vandavasi"
+      }
+    ]
+  },
+  "Viluppuram": {
+    "ta": "Viluppuram",
+    "constituencies": [
+      {
+        "en": "Gingee",
+        "ta": "Gingee"
+      },
+      {
+        "en": "Mailam",
+        "ta": "Mailam"
+      },
+      {
+        "en": "Tindivanam",
+        "ta": "Tindivanam"
+      },
+      {
+        "en": "Vanur",
+        "ta": "Vanur"
+      },
+      {
+        "en": "Villupuram",
+        "ta": "Villupuram"
+      },
+      {
+        "en": "Vikravandi",
+        "ta": "Vikravandi"
+      }
+    ]
+  },
+  "Kallakurichi": {
+    "ta": "Kallakurichi",
+    "constituencies": [
+      {
+        "en": "Tirukkoyilur",
+        "ta": "Tirukkoyilur"
+      },
+      {
+        "en": "Ulundurpettai",
+        "ta": "Ulundurpettai"
+      },
+      {
+        "en": "Rishivandiyam",
+        "ta": "Rishivandiyam"
+      },
+      {
+        "en": "Sankarapuram",
+        "ta": "Sankarapuram"
+      },
+      {
+        "en": "Kallakurichi",
+        "ta": "Kallakurichi"
+      }
+    ]
+  },
+  "Salem": {
+    "ta": "சேலம்",
+    "constituencies": [
+      {
+        "en": "Gangavalli",
+        "ta": "Gangavalli"
+      },
+      {
+        "en": "Attur",
+        "ta": "Attur"
+      },
+      {
+        "en": "Yercaud",
+        "ta": "Yercaud"
+      },
+      {
+        "en": "Omalur",
+        "ta": "Omalur"
+      },
+      {
+        "en": "Mettur",
+        "ta": "Mettur"
+      },
+      {
+        "en": "Edappadi",
+        "ta": "Edappadi"
+      },
+      {
+        "en": "Sankari",
+        "ta": "Sankari"
+      },
+      {
+        "en": "Salem (West)",
+        "ta": "Salem (West)"
+      },
+      {
+        "en": "Salem (North)",
+        "ta": "Salem (North)"
+      },
+      {
+        "en": "Salem (South)",
+        "ta": "Salem (South)"
+      },
+      {
+        "en": "Veerapandi",
+        "ta": "Veerapandi"
+      }
+    ]
+  },
+  "Namakkal": {
+    "ta": "Namakkal",
+    "constituencies": [
+      {
+        "en": "Rasipuram",
+        "ta": "Rasipuram"
+      },
+      {
+        "en": "Senthamangalam",
+        "ta": "Senthamangalam"
+      },
+      {
+        "en": "Namakkal",
+        "ta": "Namakkal"
+      },
+      {
+        "en": "Paramathi Velur",
+        "ta": "Paramathi Velur"
+      },
+      {
+        "en": "Tiruchengodu",
+        "ta": "Tiruchengodu"
+      },
+      {
+        "en": "Kumarapalayam",
+        "ta": "Kumarapalayam"
+      }
+    ]
+  },
+  "Erode": {
+    "ta": "Erode",
+    "constituencies": [
+      {
+        "en": "Erode (East)",
+        "ta": "Erode (East)"
+      },
+      {
+        "en": "Erode (West)",
+        "ta": "Erode (West)"
+      },
+      {
+        "en": "Modakkurichi",
+        "ta": "Modakkurichi"
+      },
+      {
+        "en": "Perundurai",
+        "ta": "Perundurai"
+      },
+      {
+        "en": "Bhavani",
+        "ta": "Bhavani"
+      },
+      {
+        "en": "Anthiyur",
+        "ta": "Anthiyur"
+      },
+      {
+        "en": "Gobichettipalayam",
+        "ta": "Gobichettipalayam"
+      },
+      {
+        "en": "Bhavanisagar",
+        "ta": "Bhavanisagar"
+      }
+    ]
+  },
+  "Tiruppur": {
+    "ta": "Tiruppur",
+    "constituencies": [
+      {
+        "en": "Dharapuram",
+        "ta": "Dharapuram"
+      },
+      {
+        "en": "Kangayam",
+        "ta": "Kangayam"
+      },
+      {
+        "en": "Avanashi",
+        "ta": "Avanashi"
+      },
+      {
+        "en": "Tiruppur (North)",
+        "ta": "Tiruppur (North)"
+      },
+      {
+        "en": "Tiruppur (South)",
+        "ta": "Tiruppur (South)"
+      },
+      {
+        "en": "Palladam",
+        "ta": "Palladam"
+      },
+      {
+        "en": "Udumalaipettai",
+        "ta": "Udumalaipettai"
+      },
+      {
+        "en": "Madathukulam",
+        "ta": "Madathukulam"
+      }
+    ]
+  },
+  "Nilgiris": {
+    "ta": "Nilgiris",
+    "constituencies": [
+      {
+        "en": "Udhagamandalam",
+        "ta": "Udhagamandalam"
+      },
+      {
+        "en": "Gudalur",
+        "ta": "Gudalur"
+      },
+      {
+        "en": "Coonoor",
+        "ta": "Coonoor"
+      }
+    ]
+  },
+  "Coimbatore": {
+    "ta": "கோயம்புத்தூர்",
+    "constituencies": [
+      {
+        "en": "Mettupalayam",
+        "ta": "Mettupalayam"
+      },
+      {
+        "en": "Sulur",
+        "ta": "Sulur"
+      },
+      {
+        "en": "Kavundampalayam",
+        "ta": "Kavundampalayam"
+      },
+      {
+        "en": "Coimbatore (North)",
+        "ta": "Coimbatore (North)"
+      },
+      {
+        "en": "Thondamuthur",
+        "ta": "Thondamuthur"
+      },
+      {
+        "en": "Coimbatore (South)",
+        "ta": "Coimbatore (South)"
+      },
+      {
+        "en": "Singanallur",
+        "ta": "Singanallur"
+      },
+      {
+        "en": "Kinathukadavu",
+        "ta": "Kinathukadavu"
+      },
+      {
+        "en": "Pollachi",
+        "ta": "Pollachi"
+      },
+      {
+        "en": "Valparai",
+        "ta": "Valparai"
+      }
+    ]
+  },
+  "Dindigul": {
+    "ta": "Dindigul",
+    "constituencies": [
+      {
+        "en": "Palani",
+        "ta": "Palani"
+      },
+      {
+        "en": "Oddanchatram",
+        "ta": "Oddanchatram"
+      },
+      {
+        "en": "Athoor",
+        "ta": "Athoor"
+      },
+      {
+        "en": "Nilakottai",
+        "ta": "Nilakottai"
+      },
+      {
+        "en": "Natham",
+        "ta": "Natham"
+      },
+      {
+        "en": "Dindigul",
+        "ta": "Dindigul"
+      },
+      {
+        "en": "Vedasandur",
+        "ta": "Vedasandur"
+      }
+    ]
+  },
+  "Karur": {
+    "ta": "Karur",
+    "constituencies": [
+      {
+        "en": "Aravakurichi",
+        "ta": "Aravakurichi"
+      },
+      {
+        "en": "Karur",
+        "ta": "Karur"
+      },
+      {
+        "en": "Krishnarayapuram",
+        "ta": "Krishnarayapuram"
+      },
+      {
+        "en": "Kulithalai",
+        "ta": "Kulithalai"
+      }
+    ]
+  },
+  "Tiruchirappalli": {
+    "ta": "திருச்சிராப்பள்ளி",
+    "constituencies": [
+      {
+        "en": "Manapaarai",
+        "ta": "Manapaarai"
+      },
+      {
+        "en": "Srirangam",
+        "ta": "Srirangam"
+      },
+      {
+        "en": "Tiruchirappalli (West)",
+        "ta": "Tiruchirappalli (West)"
+      },
+      {
+        "en": "Tiruchirappalli (East)",
+        "ta": "Tiruchirappalli (East)"
+      },
+      {
+        "en": "Thiruverumbur",
+        "ta": "Thiruverumbur"
+      },
+      {
+        "en": "Lalgudi",
+        "ta": "Lalgudi"
+      },
+      {
+        "en": "Manachanallur",
+        "ta": "Manachanallur"
+      },
+      {
+        "en": "Musiri",
+        "ta": "Musiri"
+      },
+      {
+        "en": "Thuraiyur",
+        "ta": "Thuraiyur"
+      }
+    ]
+  },
+  "Perambalur": {
+    "ta": "Perambalur",
+    "constituencies": [
+      {
+        "en": "Perambalur",
+        "ta": "Perambalur"
+      },
+      {
+        "en": "Kunnam",
+        "ta": "Kunnam"
+      }
+    ]
+  },
+  "Ariyalur": {
+    "ta": "Ariyalur",
+    "constituencies": [
+      {
+        "en": "Ariyalur",
+        "ta": "Ariyalur"
+      },
+      {
+        "en": "Jayankondam",
+        "ta": "Jayankondam"
+      }
+    ]
+  },
+  "Cuddalore": {
+    "ta": "Cuddalore",
+    "constituencies": [
+      {
+        "en": "Tittakudi",
+        "ta": "Tittakudi"
+      },
+      {
+        "en": "Virudhachalam",
+        "ta": "Virudhachalam"
+      },
+      {
+        "en": "Neyveli",
+        "ta": "Neyveli"
+      },
+      {
+        "en": "Panruti",
+        "ta": "Panruti"
+      },
+      {
+        "en": "Cuddalore",
+        "ta": "Cuddalore"
+      },
+      {
+        "en": "Kurinjipadi",
+        "ta": "Kurinjipadi"
+      },
+      {
+        "en": "Bhuvanagiri",
+        "ta": "Bhuvanagiri"
+      },
+      {
+        "en": "Chidambaram",
+        "ta": "Chidambaram"
+      },
+      {
+        "en": "Kattumannarkoil",
+        "ta": "Kattumannarkoil"
+      }
+    ]
+  },
+  "Mayiladuthurai": {
+    "ta": "Mayiladuthurai",
+    "constituencies": [
+      {
+        "en": "Sirkazhi",
+        "ta": "Sirkazhi"
+      },
+      {
+        "en": "Mayiladuturai",
+        "ta": "Mayiladuturai"
+      },
+      {
+        "en": "Poompuhar",
+        "ta": "Poompuhar"
+      }
+    ]
+  },
+  "Nagapattinam": {
+    "ta": "Nagapattinam",
+    "constituencies": [
+      {
+        "en": "Nagapattinam",
+        "ta": "Nagapattinam"
+      },
+      {
+        "en": "Kilvelur",
+        "ta": "Kilvelur"
+      },
+      {
+        "en": "Vedaranyam",
+        "ta": "Vedaranyam"
+      }
+    ]
+  },
+  "Thiruvarur": {
+    "ta": "Thiruvarur",
+    "constituencies": [
+      {
+        "en": "Thiruthuraipoondi",
+        "ta": "Thiruthuraipoondi"
+      },
+      {
+        "en": "Mannargudi",
+        "ta": "Mannargudi"
+      },
+      {
+        "en": "Thiruvarur",
+        "ta": "Thiruvarur"
+      },
+      {
+        "en": "Nannilam",
+        "ta": "Nannilam"
+      }
+    ]
+  },
+  "Thanjavur": {
+    "ta": "Thanjavur",
+    "constituencies": [
+      {
+        "en": "Thiruvidaimarudur",
+        "ta": "Thiruvidaimarudur"
+      },
+      {
+        "en": "Kumbakonam",
+        "ta": "Kumbakonam"
+      },
+      {
+        "en": "Papanasam",
+        "ta": "Papanasam"
+      },
+      {
+        "en": "Thiruvaiyaru",
+        "ta": "Thiruvaiyaru"
+      },
+      {
+        "en": "Thanjavur",
+        "ta": "Thanjavur"
+      },
+      {
+        "en": "Orathanadu",
+        "ta": "Orathanadu"
+      },
+      {
+        "en": "Pattukkottai",
+        "ta": "Pattukkottai"
+      },
+      {
+        "en": "Peravurani",
+        "ta": "Peravurani"
+      }
+    ]
+  },
+  "Pudukkottai": {
+    "ta": "Pudukkottai",
+    "constituencies": [
+      {
+        "en": "Gandarvakottai",
+        "ta": "Gandarvakottai"
+      },
+      {
+        "en": "Viralimalai",
+        "ta": "Viralimalai"
+      },
+      {
+        "en": "Pudukkottai",
+        "ta": "Pudukkottai"
+      },
+      {
+        "en": "Thirumayam",
+        "ta": "Thirumayam"
+      },
+      {
+        "en": "Alangudi",
+        "ta": "Alangudi"
+      },
+      {
+        "en": "Aranthangi",
+        "ta": "Aranthangi"
+      }
+    ]
+  },
+  "Sivaganga": {
+    "ta": "Sivaganga",
+    "constituencies": [
+      {
+        "en": "Karaikudi",
+        "ta": "Karaikudi"
+      },
+      {
+        "en": "Tiruppattur",
+        "ta": "Tiruppattur"
+      },
+      {
+        "en": "Sivaganga",
+        "ta": "Sivaganga"
+      },
+      {
+        "en": "Manamadurai",
+        "ta": "Manamadurai"
+      }
+    ]
+  },
+  "Madurai": {
+    "ta": "மதுரை",
+    "constituencies": [
+      {
+        "en": "Melur",
+        "ta": "Melur"
+      },
+      {
+        "en": "Madurai East",
+        "ta": "Madurai East"
+      },
+      {
+        "en": "Sholavandan",
+        "ta": "Sholavandan"
+      },
+      {
+        "en": "Madurai North",
+        "ta": "Madurai North"
+      },
+      {
+        "en": "Madurai South",
+        "ta": "Madurai South"
+      },
+      {
+        "en": "Madurai Central",
+        "ta": "Madurai Central"
+      },
+      {
+        "en": "Madurai West",
+        "ta": "Madurai West"
+      },
+      {
+        "en": "Thiruparankundram",
+        "ta": "Thiruparankundram"
+      },
+      {
+        "en": "Thirumangalam",
+        "ta": "Thirumangalam"
+      },
+      {
+        "en": "Usilampatti",
+        "ta": "Usilampatti"
+      }
+    ]
+  },
+  "Theni": {
+    "ta": "Theni",
+    "constituencies": [
+      {
+        "en": "Andipatti",
+        "ta": "Andipatti"
+      },
+      {
+        "en": "Periyakulam",
+        "ta": "Periyakulam"
+      },
+      {
+        "en": "Bodinayakanur",
+        "ta": "Bodinayakanur"
+      },
+      {
+        "en": "Cumbum",
+        "ta": "Cumbum"
+      }
+    ]
+  },
+  "Virudhunagar": {
+    "ta": "Virudhunagar",
+    "constituencies": [
+      {
+        "en": "Rajapalayam",
+        "ta": "Rajapalayam"
+      },
+      {
+        "en": "Srivilliputhur",
+        "ta": "Srivilliputhur"
+      },
+      {
+        "en": "Sattur",
+        "ta": "Sattur"
+      },
+      {
+        "en": "Sivakasi",
+        "ta": "Sivakasi"
+      },
+      {
+        "en": "Virudhunagar",
+        "ta": "Virudhunagar"
+      },
+      {
+        "en": "Aruppukkottai",
+        "ta": "Aruppukkottai"
+      },
+      {
+        "en": "Tiruchuli",
+        "ta": "Tiruchuli"
+      }
+    ]
+  },
+  "Ramanathapuram": {
+    "ta": "Ramanathapuram",
+    "constituencies": [
+      {
+        "en": "Paramakudi",
+        "ta": "Paramakudi"
+      },
+      {
+        "en": "Tiruvadanai",
+        "ta": "Tiruvadanai"
+      },
+      {
+        "en": "Ramanathapuram",
+        "ta": "Ramanathapuram"
+      },
+      {
+        "en": "Mudhukulathur",
+        "ta": "Mudhukulathur"
+      }
+    ]
+  },
+  "Thoothukudi": {
+    "ta": "Thoothukudi",
+    "constituencies": [
+      {
+        "en": "Vilathikulam",
+        "ta": "Vilathikulam"
+      },
+      {
+        "en": "Thoothukkudi",
+        "ta": "Thoothukkudi"
+      },
+      {
+        "en": "Tiruchendur",
+        "ta": "Tiruchendur"
+      },
+      {
+        "en": "Srivaikuntam",
+        "ta": "Srivaikuntam"
+      },
+      {
+        "en": "Ottapidaram",
+        "ta": "Ottapidaram"
+      },
+      {
+        "en": "Kovilpatti",
+        "ta": "Kovilpatti"
+      }
+    ]
+  },
+  "Tenkasi": {
+    "ta": "Tenkasi",
+    "constituencies": [
+      {
+        "en": "Sankarankovil",
+        "ta": "Sankarankovil"
+      },
+      {
+        "en": "Vasudevanallur",
+        "ta": "Vasudevanallur"
+      },
+      {
+        "en": "Kadayanallur",
+        "ta": "Kadayanallur"
+      },
+      {
+        "en": "Tenkasi",
+        "ta": "Tenkasi"
+      },
+      {
+        "en": "Alangulam",
+        "ta": "Alangulam"
+      }
+    ]
+  },
+  "Tirunelveli": {
+    "ta": "Tirunelveli",
+    "constituencies": [
+      {
+        "en": "Tirunelveli",
+        "ta": "Tirunelveli"
+      },
+      {
+        "en": "Ambasamudram",
+        "ta": "Ambasamudram"
+      },
+      {
+        "en": "Palayamkottai",
+        "ta": "Palayamkottai"
+      },
+      {
+        "en": "Nanguneri",
+        "ta": "Nanguneri"
+      },
+      {
+        "en": "Radhapuram",
+        "ta": "Radhapuram"
+      }
+    ]
+  },
+  "Kanniyakumari": {
+    "ta": "Kanniyakumari",
+    "constituencies": [
+      {
+        "en": "Kanniyakumari",
+        "ta": "Kanniyakumari"
+      },
+      {
+        "en": "Nagercoil",
+        "ta": "Nagercoil"
+      },
+      {
+        "en": "Colachal",
+        "ta": "Colachal"
+      },
+      {
+        "en": "Padmanabhapuram",
+        "ta": "Padmanabhapuram"
+      },
+      {
+        "en": "Vilavancode",
+        "ta": "Vilavancode"
+      },
+      {
+        "en": "Killiyoor",
+        "ta": "Killiyoor"
+      }
+    ]
+  }
+}

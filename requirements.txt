@@ -1,0 +1,8 @@
+openai
+python-dotenv
+pymongo
+streamlit
+bcrypt
+pandas
+openpyxl
+dnspython
